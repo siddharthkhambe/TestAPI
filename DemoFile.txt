@@ -7,21 +7,21 @@
  "isActive":"true"
 },
  "UserInfo":{
- "NameValuePair":
+ "NameValuePair":[
  {
 	"Name":"State",
 	"Value":"TestState"
  },
- "NameValuePair":
+ 
  {
 	"Name":"Street",
 	"Value":"TestStreet"
  },
- "NameValuePair":
+
  {
 	"Name":"ZipCode",
 	"Value":"1234"
- }
+ }]
  
  
  }
