@@ -1,0 +1,28 @@
+
+{
+"User":{
+ "Name":"TestUser",
+ "firstName":"MPSOCAL",
+ "LastName":"ALEX SOCALDISPATCHER",
+ "isActive":"true"
+},
+ "UserInfo":{
+ "NameValuePair":
+ {
+	"Name":"State",
+	"Value":"TestState"
+ },
+ "NameValuePair":
+ {
+	"Name":"Street",
+	"Value":"TestStreet"
+ },
+ "NameValuePair":
+ {
+	"Name":"ZipCode",
+	"Value":"1234"
+ }
+ 
+ 
+ }
+}
