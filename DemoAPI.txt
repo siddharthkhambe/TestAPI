@@ -1,0 +1,16 @@
+<ev:IsActive>True</ev:IsActive>
+<ev:UserInfo>
+<ev:Name>IF</ev:Name>
+<ev:firstName>MPSOCAL</ev:firstName>
+<ev:LastName>ALEX SOCALDISPATCHER</ev:LastName>
+</ev:UserInfo>
+<ev:UserDetails>
+<ev:NameValuePair>
+<ev:Name>UserState</ev:Name>
+<ev:Value>TestState</ev:Value>
+</ev:NameValuePair>
+<ev:NameValuePair>
+<ev:Name>Street</ev:Name>
+<ev:Value>TestStreet</ev:Value>
+</ev:NameValuePair>
+</ev:UserDetails>
