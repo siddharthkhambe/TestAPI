@@ -1,28 +1,24 @@
-
 {
-"User":{
- "Name":"TestUser",
- "firstName":"MPSOCAL",
- "LastName":"ALEX SOCALDISPATCHER",
- "isActive":"true"
-},
- "UserInfo":{
- "NameValuePair":[
- {
-	"Name":"State",
-	"Value":"TestState"
- },
- 
- {
-	"Name":"Street",
-	"Value":"TestStreet"
- },
-
- {
-	"Name":"ZipCode",
-	"Value":"1234"
- }]
- 
- 
- }
+  "User": {
+    "Name": "TestUser",
+    "firstName": "MPSOCAL",
+    "LastName": "ALEX SOCALDISPATCHER",
+    "isActive": "true",
+    "UserInfo": {
+      "NameValuePair": [
+        {
+          "Name": "State",
+          "Value": "TestState"
+        },
+        {
+          "Name": "Street",
+          "Value": "TestStreet"
+        },
+        {
+          "Name": "ZipCode",
+          "Value": "1234"
+        }
+      ]
+    }
+  }
 }
