@@ -1,0 +1,25 @@
+{
+  "Name": "James Johnson",
+  "FirstName": "James",
+  "LastName": "Johnson",
+  "UserInfo": {
+    "NameValuePair": [
+      {
+        "Name": "City",
+        "Value": "New York"
+      },
+      {
+        "Name": "State",
+        "Value": "NY"
+      },
+      {
+        "Name": "Country",
+        "Value": "USA"
+      },
+      {
+        "Name": "PostalCode",
+        "Value": "10019"
+      }
+    ]
+  }
+}
